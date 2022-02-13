@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm a self -taught iOS Engineer
+
+#### Projects
+Here you can see my projects
+
+##### [Chess Timer](https://github.com/carolineladouce/chess-timer)
+Chess Timer description & image
 
 <!--
 **carolineladouce/carolineladouce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
