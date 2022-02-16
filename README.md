@@ -1,13 +1,14 @@
 ### Hi there 👋
 <!-- 
-I'm a self-taught iOS Engineer (lookup how to spell)
-How many years
+I'm a self-taught iOS Engineer 
+
+I've been coding using Swift for 1 year
+
 What technologies
 What direction you want to go in iOS
 What are you looking for (job, internship etc)
 Put face on profile photo 
--->
-
+ 
 #### Projects
 Here you can see my projects
 
@@ -16,7 +17,7 @@ Chess Timer description & image
 
 <image src="./ChessTimerDemo.png" width="200" />
 
-<!--
+
 **carolineladouce/carolineladouce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
