@@ -2,9 +2,9 @@
 
 #### I'm a self-taught iOS Engineer and have been coding with Swift for 1 year
 
-- 📱 I'm currently learning how to build a [Chat App](https://github.com/carolineladouce/chat-app)
+- 📱 Currently learning how to build a [Chat App](https://github.com/carolineladouce/chat-app)
 - ✨ Working on [Shiny Card](https://github.com/carolineladouce/shiny-card) 
-- 🤳 Expanding upon [Scan Payment Card](https://github.com/carolineladouce/scan-payment-card)
+- 🤳 Expanding on [Scan Payment Card](https://github.com/carolineladouce/scan-payment-card)
 
 
 #### Technologies
@@ -22,13 +22,13 @@
 - Firebase
 
 #### I'm looking for
-- Full time job opportunities
-- Internships
-- Apprenticeships
+- 🙌 Full time job opportunities
+- 👏 Internships
+- 💪 Apprenticeships
 
 
 
-🙌 [Linkedin](https://www.linkedin.com/in/carolineladouce/) Let's Connect!
+#### [Linkedin](https://www.linkedin.com/in/carolineladouce/) | Let's Connect! 🤝
 
 
 
