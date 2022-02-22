@@ -1,8 +1,53 @@
 ### Hi there 👋
+
+#### I'm a self-taught iOS Engineer and have been coding with Swift for 1 year
+
+- 📱 I'm currently learning how to build a [Chat App](https://github.com/carolineladouce/chat-app)
+- ✨ Working on [Shiny Card](https://github.com/carolineladouce/shiny-card) 
+- 🤳 Expanding upon [Scan Payment Card](https://github.com/carolineladouce/scan-payment-card)
+
+
+#### Technologies
+- Swift
+- UIKit
+- XCode
+- Core Data
+- Vision
+- Core Motion
+- Core Location
+- MapKit
+- Core Graphics
+- Core Animation
+- AVFoundation
+- Firebase
+
+#### I'm looking for
+- Full time job opportunities
+- Internships
+- Apprenticeships
+
+
+
+🙌 [Linkedin](https://www.linkedin.com/in/carolineladouce/) Let's Connect!
+
+
+
 <!-- 
 I'm a self-taught iOS Engineer 
 
-I've been coding using Swift for 1 year
+I've been coding with Swift for 1 year
+
+
+Swift, UIKit, XCode, 
+Core Data, Vision, AVFoundation, 
+Core Motion, Core Location, MapKit, 
+Core Graphics, Core Animation, Firebase
+
+I'm looking for full time opportunities, internships, and apprenticeships
+
+
+
+
 
 What technologies
 What direction you want to go in iOS
