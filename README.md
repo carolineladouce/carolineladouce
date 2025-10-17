@@ -1,33 +1,4 @@
-### Hi there 👋
-
-#### I'm a self-taught iOS Engineer and have been coding with Swift for 1 year
-
-- 📱 Currently learning how to build a [Chat App](https://github.com/carolineladouce/chat-app)
-- ✨ Working on [Position Eyes Vision](https://github.com/carolineladouce/position-eyes-vision) and [Shiny Card](https://github.com/carolineladouce/shiny-card) 
-- 🤳 Expanding on [Scan Payment Card](https://github.com/carolineladouce/scan-payment-card)
-
-
-#### Technologies
-- Swift
-- UIKit
-- SwiftUI
-- XCode
-- Vision
-- MapKit
-- Core Data
-- Core Motion
-- Core Location
-- Core Graphics
-- Core Animation
-- AVFoundation
-- Firebase
-
-#### I'm looking for
-- 🙌 Full time job opportunities
-- 👏 Internships
-- 💪 Apprenticeships
-
-
+### 👋
 
 #### [Linkedin](https://www.linkedin.com/in/carolineladouce/) | Let's Connect! 🤝
 
