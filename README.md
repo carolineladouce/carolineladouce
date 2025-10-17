@@ -1,6 +1,4 @@
-### 👋
-
-#### [Linkedin](https://www.linkedin.com/in/carolineladouce/) | Let's Connect! 🤝
+### 👋 [Linkedin](https://www.linkedin.com/in/carolineladouce/) | Let's Connect 🤝
 
 
 
